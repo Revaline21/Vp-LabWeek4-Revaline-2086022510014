@@ -21,7 +21,7 @@
 
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:lab04/main.dart';
+import 'package:lab04/lab04_start.dart';
 
 const Size small = Size(320, 568);
 const Size large = Size(430, 932);
